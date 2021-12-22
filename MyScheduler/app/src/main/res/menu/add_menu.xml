@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/add_task"
+        android:icon="@drawable/ic_launcher_add"
+        android:title="@string/add_task"
+        android:onClick="onMenuItemClick"/>
+
+    <item
+        android:id="@+id/add_category"
+        android:icon="@drawable/ic_launcher_add"
+        android:title="@string/add_category"
+        android:onClick="onMenuItemClick"/>
+
+    <item
+        android:id="@+id/add_note"
+        android:icon="@drawable/ic_launcher_add"
+        android:title="@string/add_note"
+        android:onClick="onMenuItemClick"/>
+
+</menu>

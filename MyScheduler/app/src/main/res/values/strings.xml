@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Scheduler</string>
+    <string name="title_home">Home</string>
+    <string name="title_allCategories">All Categories</string>
+    <string name="title_note">Notes</string>
+
+    <string name="add_task">Task</string>
+    <string name="add_category">Category</string>
+    <string name="add_note">Note</string>
+
+    <string name="editText_hint_search">Search</string>
+    <string name="button_add">Add</string>
+
+    <string name="popup_categoryName">Category Name</string>
+    <string name="popup_categoryPriority">Category Priority</string>
+
+</resources>
